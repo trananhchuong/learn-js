@@ -1,6 +1,8 @@
 
 let name = "chuong"
 
-(function hello(){
+;(function hello(){
     console.log("my name is chuong");
 })()
+
+ 
