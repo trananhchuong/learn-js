@@ -10,12 +10,12 @@ function getCounter() {
   return increase;
 }
 
-const counter = getCounter();
 
-console.log("counter", counter());
-console.log("counter", counter());
-console.log("counter", counter());
-console.log("counter", counter());
-console.log("counter", counter());
-console.log("counter", counter());
-console.log("counter", counter());
+const counter = getCounter()
+console.log("counter", counter())
+console.log("counter", counter())
+console.log("counter", counter())
+console.log("counter", counter())
+console.log("counter", counter())
+console.log("counter", counter())
+console.log("counter", counter())
