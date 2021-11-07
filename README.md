@@ -28,3 +28,11 @@
   - Biểu diễn, ứng dụng tính **Private** trong OOP
 - Lưu ý:
   - Biến được tham chiếu trong closure sẽ **không** được xoá khỏi bộ nhớ
+
+## Bind
+>Là một phương thức được đinh nghĩa trong Function Contructor, cho phép ràng buộc **this** cho phương thức/function đó
+
+- Lưu ý:
+  - Bind() trả về một hàm mới
+  - Có thể nhận các đối số như hàm ban đầu
+
