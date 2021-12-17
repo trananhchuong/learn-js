@@ -38,5 +38,3 @@
    - Appointment time will be pinned to the top of the chat with an icon
    - Clicking or tapping the appointment time will open the card in calendar
 
-
-requirement analysis
