@@ -5,3 +5,9 @@
 
 ### Solidity:
     - Solidity smart contracts will be deployed to and run in a virtual environment
+  #### All Solidity contracts typically include:
+    - Pragma directives
+    - State variables
+    - Functions
+    - Events
+  #### Reference types

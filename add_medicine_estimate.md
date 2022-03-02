@@ -21,3 +21,18 @@
     3. Update/delete medicine function (1 day)
 
 ### Testing & bug fixing (1 day)
+
+
+
+###  Medicine api backend support
+  #### function save medicine csv:
+   - Api save csv (excel) list medicine:
+     - detail: save list medicine in file csv
+   - function download template prototype
+  #### function CRUD medicine:
+    - Api get list units of medicine
+    - Api add medicine
+    - Api update medicine
+    - Api delete medicine
+  #### function display list medicine to dashboard
+   - Api get medicine list
