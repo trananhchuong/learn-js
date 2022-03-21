@@ -33,6 +33,8 @@
     - Api get list units of medicine
     - Api add medicine
     - Api update medicine
-    - Api delete medicine
+    - Api delete medicine 
+    - 
   #### function display list medicine to dashboard
    - Api get medicine list
+  
